@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/131987686.svg)](https://zenodo.org/badge/latestdoi/131987686)
+
+
+
 # EMOT
 A new way to analyse computer mouse trajectories
 
